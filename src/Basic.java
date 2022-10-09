@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Basic {
-    private static Emoloyee[] emoloyees = new Emoloyee[10];
+    private static Emoloyee[] emoloyees = new Emoloyee[2];
 
     public static void main(String[] args) {
         Emoloyee emp1 = new Emoloyee ("Петр", "Иванович", "Иванов", 1, 100000);
