@@ -4,7 +4,7 @@ public class Basic {
     private static Emoloyee[] emoloyees = new Emoloyee[2];
 
     public static void main(String[] args) {
-        Emoloyee emp1 = new Emoloyee ("Петр", "Иванович", "Иванов", 1, 100000);
+        Emoloyee emp1 = new Emoloyee ("Петр", "Иванович", "Иванов", 1, 110000);
         Emoloyee emp2 = new Emoloyee ("Василий", "Иванович", "Иванов", 1, 120000);
 
         emoloyees[0] = emp1;

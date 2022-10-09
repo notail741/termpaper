@@ -44,12 +44,11 @@ public class Emoloyee {
         return salary;
     }
 
-    public void setDepartament(int departament) {
-        this.departament = departament;
-    }
-
     public void setSalary(int salary) {
         this.salary = salary;
+    }
+    public void setDepartament(int departament) {
+        this.departament = departament;
     }
 
     @Override
